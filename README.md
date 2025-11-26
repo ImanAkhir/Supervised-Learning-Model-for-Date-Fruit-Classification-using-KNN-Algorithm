@@ -1,9 +1,5 @@
 # Supervised-Learning-Model-for-Date-Fruit-Classification-using-KNN-Algorithm
 
-============================================================
-DATE FRUIT CLASSIFICATION USING KNN
-============================================================
-
 1.0 INTRODUCTION
 ------------------------------------------------------------
 This project applies supervised machine learning to classify 
@@ -77,9 +73,7 @@ You may also pass your own feature values into the function.
 
 7.0 REQUIREMENTS
 ------------------------------
-pandas
-numpy
-scikit-learn
+pandas, numpy, scikit-learn
 
 8.0 LICENSE
 ------------------------------
