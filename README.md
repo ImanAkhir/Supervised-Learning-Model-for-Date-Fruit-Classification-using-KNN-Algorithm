@@ -81,4 +81,5 @@ This project is for educational use.
 
 9.0 AUTHORS & CREDITS
 ------------------------------------------------------------
-Iman A., developed as part of the Machine Learning Group Assignment together with Fitrah M.R. and Zullaikha Z.
+Iman A., Fitrah M.R., Zullaikha Z.
+Created as part of Intelligent Systems group assignment.
