@@ -79,6 +79,6 @@ pandas, numpy, scikit-learn
 ------------------------------
 This project is for educational use.
 
-8.0 AUTHOR & CREDITS
+9.0 AUTHORS & CREDITS
 ------------------------------------------------------------
 Iman A., developed as part of the Machine Learning Group Assignment together with Fitrah M.R. and Zullaikha Z.
